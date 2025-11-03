@@ -14,5 +14,4 @@ class Solution:
 sol = Solution()
 print(sol.isIsogram())       # For default 'otkyhmxzykq'
 print(sol.isIsogram('lamp')) # Another test
-print(sol.isIsogram('apple')) # Should return False
-              
+print(sol.isIsogram('apple')) # Should return False           
